@@ -89,13 +89,6 @@ No Activity Tracked This Week
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://bitlie.deri.my.id/linkedin](https://www.linkedin.com/in/shivani-kumari-3a9346231/))
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://bitlie.deri.my.id/instagram](https://www.instagram.com/_.xoxoshiviii/))
   
 </div>
 
